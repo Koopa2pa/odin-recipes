@@ -1,0 +1,1 @@
+<!-- This is a simple website using solely HTML to create an index that links to a lasagna recipe. I created this as part of the curriculum for the Odin Project. Demonstrates basic knowledge of HTML through images, lists, text properties, and general syntax. -->
